@@ -8,7 +8,7 @@
             TemperatureReporter reporter = new TemperatureReporter();
             reporter.StartReporting(sensor);
             sensor.GetTemperature();
-            //Prueba de PR
+            
         }
     }
 }
